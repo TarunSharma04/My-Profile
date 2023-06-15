@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Web Developing and designing**
+- 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **akkisharmaonlinehere@gmail.com**
 
