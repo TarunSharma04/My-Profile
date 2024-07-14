@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/dear_sharmaji" target="blank"><img src="https://img.shields.io/twitter/follow/dear_sharmaji?logo=twitter&style=for-the-badge" alt="dear_sharmaji" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Prediction and Automation**
+- 🔭 I’m currently working on a project **PDF Wizard**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TesnsorFlow**
 
 - 📝 I regularly write articles on [TarunSharma10.blogspot.com](TarunSharma10.blogspot.com)
 
